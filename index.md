@@ -6,7 +6,7 @@ The NBA is rapidly evolving in terms of viewership, fan engagement, and revenue 
 ## Background & Motivation
 This project stems from the growing conversations around NBA expansion and relocation. With Las Vegas emerging as a major sports hub and the league emphasizing market performance, there's a unique opportunity to propose a model for moving a franchise. Personally, it blends my passion for sports management, wanting to become a GM of a professional sports team (perferably: NBA, NFL, MLB).
 
-**[Elevator Pitch](https://www.youtube.com/watch?v=ZaTScO0AuvU)**
+**[Elevator Pitch](https://youtube.com/shorts/OHtz30h-DXA?si=oDDqpvKApxpDarJv)**
 
 ## Methodology
 - **Data Collection:** Gathered franchise revenue, attendance, social media engagement, and market data & fan data
