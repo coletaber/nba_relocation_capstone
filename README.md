@@ -10,7 +10,7 @@ This project uses data analytics and interactive dashboards to explore the feasi
 CT Taber | CSU Channel Islands
 
 ## Live Dashboard
-(Coming soon via Streamlit Cloud)
+[Streamlit Cloud](https://nbarelocationcapstone.streamlit.app/)
 
 ## Video
 [Watch Elevator Pitch](https://youtube.com/shorts/OHtz30h-DXA?feature=share)
