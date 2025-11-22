@@ -1,5 +1,5 @@
 # Fast Break to Las Vegas: A Market Driven Approach to NBA Franchise Relocation
-######## Author
+#### Author
 CT Taber 
 
 ## Introduction
