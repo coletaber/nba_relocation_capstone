@@ -1,4 +1,6 @@
 # Fast Break to Las Vegas: A Market Driven Approach to NBA Franchise Relocation
+### Author
+CT Taber 
 
 ## Introduction
 The NBA is rapidly evolving in terms of viewership, fan engagement, and revenue growth. However, some franchises are falling behind in competitiveness and market potential. This project investigates the strategic relocation of an underperforming NBA franchise to Las Vegas, utilizing data driven decision making and modern IT tools.
