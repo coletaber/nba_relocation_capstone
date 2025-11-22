@@ -1,5 +1,5 @@
-plotly
 streamlit
 plotly
 pandas
-numpy
+matplotlib
+wordcloud
