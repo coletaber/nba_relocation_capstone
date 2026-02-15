@@ -35,7 +35,8 @@ This project stems from the growing conversations around NBA expansion and reloc
 
 ## Feedback
 Please leave your comments or suggestions at:
-📧 [cole.taber590@myci.csuci.edu](mailto:cole.taber590@myci.csuci.edu)
+📧 [cole2taber@gmail.com](mailto:cole2taber@gmail.com)
+or [cole.taber590@myci.csuci.edu](mailto:cole.taber590@myci.csuci.edu)
 
 ## Acknowledgments
 Special thanks to:
